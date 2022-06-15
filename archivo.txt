@@ -1,0 +1,8 @@
+Esta es la información sobre mi computador
+Total Memoria: 8567345152
+Version del sistema operativo: 10.0.18362
+Sistema tipo: Windows_NT
+La base del sistema es: win32
+La arquitectura del sistema operativo es: x64Bits.
+Memoria disponible al momento de la captura: 4373229568Bits.
+El nombre del equipo es: DESKTOP-TO7K3V0
